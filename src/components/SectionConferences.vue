@@ -162,7 +162,7 @@
         eventUrl="https://sites.google.com/inaf.it/lssteurope4"
         talkTitle="Simulating Miras & Long-Period Variables in LSST"
         talkType="Contributed Talk"
-        eventImagePath="/images/lsst-europe-4-logo.png"
+        eventImagePath="/images/lsst-europe-4-logo.jpg"
         talkPdfPath="/files/talk_trabucchi_roma2022.pdf"
         flexDir="row-reverse"
         >
