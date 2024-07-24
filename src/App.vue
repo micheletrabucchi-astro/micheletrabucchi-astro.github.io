@@ -163,7 +163,7 @@
       </div>
     </SectionText>
     <!--  -->
-    <SectionTextImage id="outreach" title="Outreach" imagePath="/images/outreach.png">
+    <SectionTextImage id="outreach" title="Outreach" imagePath="/images/outreach.jpg">
       <div>
         Since 2018 I am engaged in outreach activities aimed at promoting the
         understanding of science and the scientific method among the general
