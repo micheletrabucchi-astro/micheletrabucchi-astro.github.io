@@ -29,7 +29,7 @@
         authors="Trabucchi, M."
         bibinfo="2024 •​​ Proceedings of the IAU, S376, 306T"
         adsurl="https://ui.adsabs.harvard.edu/abs/2024IAUS..376..306T/abstract"
-        imagePath="/images/trabucchi_2024.png"
+        imagePath="/images/trabucchi_2024.jpg"
         pdfPath="/files/Trabucchi_2024_ProceedingsIAU_S376_306T.pdf"
         flexDir="row-reverse"
         >
@@ -45,7 +45,7 @@
         authors="Palwak, M.; Trabucchi, M.; Eyer, L. & Mowlavi, N."
         bibinfo="2024 •​​ A&A, 682:A88"
         adsurl="https://ui.adsabs.harvard.edu/abs/2024A%26A...682A..88P/abstract"
-        imagePath="/images/pawlak_trabucchi_eyer_mowlavi_2024.png"
+        imagePath="/images/pawlak_trabucchi_eyer_mowlavi_2024.jpg"
         pdfPath="/files/Pawlak_Trabucchi_Eyer_Mowlavi_2024_A&A_682_A88.pdf"
         >
         Period–luminosity (PL) sequences of long-period variables (LPVs) are commonly interpreted as different pulsation modes, but there is disagreement on the modal assignment. Here, we re-examine the observed PL sequences in the Large Magellanic Cloud, including the sequence of long secondary periods (LSPs), and their associated pulsation modes. First, we theoretically model the sequences using linear, radial, nonadiabatic pulsation models and a population synthesis model of the LMC red giants. Then, we use a semi-empirical approach to assign modes to the pulsation sequences by exploiting observed multi-mode pulsators. As a result of the combined approaches, we consistently ﬁnd that sequences B and C′ both correspond to ﬁrst overtone pulsation, although there are some fundamental mode pulsators at low luminosities on both sequences. The masses of these fundamental mode pulsators are larger at a given luminosity than the mass of the ﬁrst overtone pulsators. These two sequences, B and C′, are separated by a small period interval in which large amplitude pulsation in a long secondary period (sequence D variability) occurs, meaning that the ﬁrst overtone pulsation is not seen as the primary mode of pulsation. Observationally, this leads to the splitting of the ﬁrst overtone pulsation sequence into the two observed sequences, B and C′. Our two independent examinations also show that sequences A′, A, and C correspond to third overtone, second overtone, and fundamental mode pulsation, respectively.
@@ -60,7 +60,7 @@
         authors="Gaia Collaboration: Trabucchi, M.; Mowlavi, N.; Lebzelter, T.; Lecoeur-Taïbi, I. et al."
         bibinfo="2023 •​​ A&A, 680:A36"
         adsurl="https://ui.adsabs.harvard.edu/abs/2023A%26A...680A..36G/abstract"
-        imagePath="/images/gaia_fpr_2023.png"
+        imagePath="/images/gaia_fpr_2023.jpg"
         pdfPath="/files/GaiaCollaboration_Trabucchi_Mowlavi_Lebzelter_etal_2023_A&A_680_A36.pdf"
         flexDir="row-reverse"
         >
@@ -76,7 +76,7 @@
         authors="Lebzelter, T.; Mowlavi, N.; Lecoeur-Taïbi, I.; Trabucchi, M. et al."
         bibinfo="2023 •​​ A&A, 674:A15"
         adsurl="https://ui.adsabs.harvard.edu/abs/2023A%26A...674A..15L/abstract"
-        imagePath="/images/gaia_dr3_2023.png"
+        imagePath="/images/gaia_dr3_2023.jpg"
         pdfPath="/files/Lebzelter_Mowlavi_LecoeurTaibi_Trabucchi_etal_2023_A&A_674_A15.pdf"
         >
         Context. The third Gaia Data Release covers 34 months of data and includes the second Gaia catalogue of long-period variables (LPVs), with G variability amplitudes larger than 0.1 mag (5-95% quantile range).
@@ -95,7 +95,7 @@
         authors="Trabucchi, M. & Mowlavi, N."
         bibinfo="2022 •​​ A&A, 658:A1"
         adsurl="https://ui.adsabs.harvard.edu/abs/2022A%26A...658L...1T/abstract"
-        imagePath="/images/trabucchi_mowlavi_2022.png"
+        imagePath="/images/trabucchi_mowlavi_2022.jpg"
         pdfPath="/files/Trabucchi_Mowlavi_2022_A&A_658_L1.pdf"
         flexDir="row-reverse"
         >
@@ -115,7 +115,7 @@
         authors="Trabucchi, M; Mowlavi, N. & Lebzelter, T."
         bibinfo="2021 •​​ A&A, 656:A66"
         adsurl="https://ui.adsabs.harvard.edu/abs/2021A%26A...656A..66T/abstract"
-        imagePath="/images/trabucchi_mowlavi_lebzelter_2021.png"
+        imagePath="/images/trabucchi_mowlavi_lebzelter_2021.jpg"
         pdfPath="/files/Trabucchi_Mowlavi_Lebzelter_2021_A&A_656_A66.pdf"
         >
         Context. Semi-regular variables (SRVs) are similar to Miras in brightness, and they also follow one or more period-luminosity relations (PLRs), though not necessarily the same one as Miras. As potential standard candles they are more challenging than Miras because of their smaller variability amplitudes and less regular light curves, but they are substantially more numerous and especially promising for probing old stellar populations.
@@ -134,7 +134,7 @@
         authors="Trabucchi, M; Wood, P. R.; Mowlavi, N.; Pastorelli, G.; Marigo, P.; Girardi, L. & Lebzelter, T."
         bibinfo="2021 •​​ MNRAS, 500:1575"
         adsurl="https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.1575T/abstract"
-        imagePath="/images/trabucchi_etal_2021.png"
+        imagePath="/images/trabucchi_etal_2021.jpg"
         pdfPath="/files/Trabucchi_etal_2021_MNRAS_500_1575.pdf"
         flexDir="row-reverse"
         >
@@ -154,7 +154,7 @@
         authors="Lebzelter, T.; Trabucchi, M; Mowlavi, N.; Wood, P. R.; Marigo, P.; Pastorelli, G. & Lecoeur-Taïbi, I."
         bibinfo="2019 •​​ A&A, 631:A24"
         adsurl="https://ui.adsabs.harvard.edu/abs/2019A%26A...631A..24L/abstract"
-        imagePath="/images/lebzelter_trabucchi_mowlavi_etal_2019.png"
+        imagePath="/images/lebzelter_trabucchi_mowlavi_etal_2019.jpg"
         pdfPath="/files/Lebzelter_Trabucchi_Mowlavi_etal_2019_A&A_631_A24.pdf"
         >
         Context. The period-luminosity diagram (PLD) has proven to be a powerful tool for studying populations of pulsating red giants. Gaia Data Release 2 (DR2) provides a large data set including many long-period variables (LPVs) on which this tool can be applied.
@@ -172,7 +172,7 @@
         authors="McDonald, I. & Trabucchi, M."
         bibinfo="2019 •​​ MNRAS — 484:4678"
         adsurl="https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.4678M/abstract"
-        imagePath="/images/mcdonald_trabucchi_2019.png"
+        imagePath="/images/mcdonald_trabucchi_2019.jpg"
         pdfPath="/files/McDonald_Trabucchi_2019_MNRAS_484_4678.pdf"
         flexDir="row-reverse"
         >
@@ -188,7 +188,7 @@
         authors="Trabucchi, M.; Wood, P. R.; Montalbán, J.; Marigo P.; Pastorelli G. & Girardi, L."
         bibinfo="2019 •​​ MNRAS — 482:929"
         adsurl="https://ui.adsabs.harvard.edu/abs/2019MNRAS.482..929T/abstract"
-        imagePath="/images/trabucchi_etal_2019.png"
+        imagePath="/images/trabucchi_etal_2019.jpg"
         pdfPath="/files/Trabucchi_etal_2019_MNRAS_482_929.pdf"
         >
         We present a new grid of non-adiabatic, linear pulsation models of long-period variables (LPVs), including periods and growth rates for radial modes from the fundamental to the fourth overtone. The models span a wide range in mass, luminosity, metallicity, C/O ratio, and helium abundance, effectively covering the whole thermally pulsing asymptotic giant branch (TP-AGB) evolution, and representing a significant update with respect to previous works. The main improvement is the inclusion of detailed atomic and molecular opacities, consistent with the models chemical mixture, that makes the present set of models the first to systematically account for variability in C-stars. We examine periods and growth rates in the models, and find that, while the fundamental mode is affected by the structure of the envelope, overtones are less sensitive to the interior and largely determined by the global properties. In the models, the frequency of the overtone with the largest degree of excitation is found to scale with the acoustic cut-off frequency at the stellar surface, a behaviour similar to that observed for the frequency of maximum oscillation power for solar-like oscillations in less evolved red giants. This allows us to provide a simple analytic prescription to predict the most-likely dominant mode as a function of stellar parameters. Best-fitting relations for periods are also provided. By applying results of pulsation models to evolutionary tracks, we present a general picture of the evolution of long-period variability during the TP-AGB, that we find consistent with observations. Models are made public through a dedicated web interface.
@@ -203,7 +203,7 @@
         authors="Trabucchi, M.; Wood, P. R.; Montalbán, J.; Marigo P.; Pastorelli G. & Girardi, L."
         bibinfo="2017 •​​ ApJ — 847:139"
         adsurl="https://ui.adsabs.harvard.edu/abs/2017ApJ...847..139T/abstract"
-        imagePath="/images/trabucchi_etal_2017.png"
+        imagePath="/images/trabucchi_etal_2017.jpg"
         pdfPath="/files/Trabucchi_etal_2017_ApJ_847_139.pdf"
         flexDir="row-reverse"
         >
