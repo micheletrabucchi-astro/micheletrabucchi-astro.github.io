@@ -50,7 +50,7 @@
         eventUrl="https://eas.unige.ch/EAS2024/session.jsp?id=S4"
         talkTitle="The Gaia Focused Product Release Catalog of Long-Period Variable candidates"
         talkType="Contributed Talk"
-        eventImagePath="/images/eas-padova-2024.png"
+        eventImagePath="/images/eas-padova-2024.jpg"
         talkPdfPath="/files/talk_trabucchi_padova2024.pdf"
         flexDir="row-reverse"
         >
@@ -88,7 +88,7 @@
         eventUrl="https://www.lssteu5.eu/"
         talkTitle="Simulating the pulsation of long-period variables for LSST"
         talkType="Contributed Talk"
-        eventImagePath="/images/lsst-europe-5-logo.png"
+        eventImagePath="/images/lsst-europe-5-logo.jpg"
         talkPdfPath="/files/talk_trabucchi_porec2023.pdf"
         flexDir="row-reverse"
         >
